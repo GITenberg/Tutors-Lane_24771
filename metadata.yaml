@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '26725'
     url: http://www.gutenberg.org/2009/agents/26725
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24771#Tutors-Lane
 gutenberg_issued: '2008-03-07'
 gutenberg_type: Text
 identifiers:
