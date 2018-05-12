@@ -1,0 +1,31 @@
+_repo: Tutors-Lane_24771
+_version: 0.1.0
+alternative_title: Tutor's Lane
+covers:
+- cover_type: archival
+  image_path: 24771-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lewis, W. S. (Wilmarth Sheldon)
+    alias: Lewis, Wilmarth Sheldon
+    birthdate: 1895
+    deathdate: 1979
+    gutenberg_agent_id: '26725'
+    url: http://www.gutenberg.org/2009/agents/26725
+description: ''
+gutenberg_issued: '2008-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social workers -- Fiction'
+- !lcsh 'New England -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'College teachers -- Fiction'
+- !lcc 'PS'
+title: Tutors' Lane
+url: http://www.gutenberg.org/ebooks/24771
